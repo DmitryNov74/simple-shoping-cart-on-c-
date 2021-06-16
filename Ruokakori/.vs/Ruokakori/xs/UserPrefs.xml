@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{9F095EA4-E25E-461F-95D3-FC517B857246}|Default">
+  <MonoDevelop.Ide.ItemProperties.Ruokakori PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Ruokakori/Program.cs">
+    <Files>
+      <File FileName="Ruokakori/Program.cs" Line="42" Column="13" />
+      <File FileName="Ruokakori/Tuote.cs" />
+      <File FileName="../../../tehtavat/harjoittelu_1/kimppakyyti/kimppakyyti/Program.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Ruokakori" expanded="True">
+            <Node name="Ruokakori" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

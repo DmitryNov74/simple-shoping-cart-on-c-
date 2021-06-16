@@ -1,0 +1,12 @@
+/Users/dmitrynikitin/Desktop/MY_S#/prjects/ruokakori/Ruokakori/Ruokakori/bin/Debug/netcoreapp3.1/Ruokakori.deps.json
+/Users/dmitrynikitin/Desktop/MY_S#/prjects/ruokakori/Ruokakori/Ruokakori/bin/Debug/netcoreapp3.1/Ruokakori.runtimeconfig.json
+/Users/dmitrynikitin/Desktop/MY_S#/prjects/ruokakori/Ruokakori/Ruokakori/bin/Debug/netcoreapp3.1/Ruokakori.runtimeconfig.dev.json
+/Users/dmitrynikitin/Desktop/MY_S#/prjects/ruokakori/Ruokakori/Ruokakori/bin/Debug/netcoreapp3.1/Ruokakori.dll
+/Users/dmitrynikitin/Desktop/MY_S#/prjects/ruokakori/Ruokakori/Ruokakori/bin/Debug/netcoreapp3.1/Ruokakori.pdb
+/Users/dmitrynikitin/Desktop/MY_S#/prjects/ruokakori/Ruokakori/Ruokakori/obj/Debug/netcoreapp3.1/Ruokakori.AssemblyInfoInputs.cache
+/Users/dmitrynikitin/Desktop/MY_S#/prjects/ruokakori/Ruokakori/Ruokakori/obj/Debug/netcoreapp3.1/Ruokakori.AssemblyInfo.cs
+/Users/dmitrynikitin/Desktop/MY_S#/prjects/ruokakori/Ruokakori/Ruokakori/obj/Debug/netcoreapp3.1/Ruokakori.csproj.CoreCompileInputs.cache
+/Users/dmitrynikitin/Desktop/MY_S#/prjects/ruokakori/Ruokakori/Ruokakori/obj/Debug/netcoreapp3.1/Ruokakori.dll
+/Users/dmitrynikitin/Desktop/MY_S#/prjects/ruokakori/Ruokakori/Ruokakori/obj/Debug/netcoreapp3.1/Ruokakori.pdb
+/Users/dmitrynikitin/Desktop/MY_S#/prjects/ruokakori/Ruokakori/Ruokakori/obj/Debug/netcoreapp3.1/Ruokakori.genruntimeconfig.cache
+/Users/dmitrynikitin/Desktop/MY_S#/prjects/ruokakori/Ruokakori/Ruokakori/obj/Debug/netcoreapp3.1/Ruokakori.csprojAssemblyReference.cache
